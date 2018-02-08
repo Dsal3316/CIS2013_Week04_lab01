@@ -34,3 +34,6 @@ void printStuff(int num, int total){
 void printStuff(int num){
 	cout <, "Printing x5 " << (num * 5) << " and the total was given" <<endl;
 }
+
+//CIS2013_Week04_Homework1
+//CIS2013_Week04_Homework2
